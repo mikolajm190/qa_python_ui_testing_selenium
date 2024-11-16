@@ -1,0 +1,5 @@
+{
+    "browser": "chrome",
+    "headless": true,
+    "implicit_wait": 5
+}

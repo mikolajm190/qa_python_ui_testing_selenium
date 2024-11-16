@@ -1,0 +1,7 @@
+.gitignore
+.git/
+.venv/
+Pipfile
+Pipfile.lock
+compose.yaml
+run.sh

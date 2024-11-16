@@ -1,0 +1,8 @@
+# git dir
+.git/
+
+# pytest cache
+.pytest_cache/
+
+# pycache
+__pycache__/
